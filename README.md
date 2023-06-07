@@ -92,6 +92,6 @@ You are set to go
 
 Entregables are the homeworks to deliver to the tutor. The folders are created with the names corresponding to the entregable in turn:
 
-[Entregable_Uno](/home/marm1984/github/data_engineering_coder_house/entregable_uno)  
+[Entregable_uno](/home/marm1984/github/data_engineering_coder_house/entregable_uno)  
 [Entregable_dos](/home/marm1984/github/data_engineering_coder_house/entregable_dos)  
 [Entregable_tres](/home/marm1984/github/data_engineering_coder_house/entregable_tres)
