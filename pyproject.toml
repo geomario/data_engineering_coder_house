@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "data-engineering-entregas"
+version = "0.1.0"
+description = "Delivering entregables for CODER HOUSE"
+authors = ["geomario <marm1984@gmail.com>"]
+readme = "README.md"
+packages = [{include = "data_engineering_entregas"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pyspark = "^3.4.0"
+requests = "^2.31.0"
+colorama = "^0.4.6"
+psycopg2 = "^2.9.6"
+pandas = "^2.0.2"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.23.1"
+pre-commit = "^3.3.2"
+commitizen = "^3.2.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
