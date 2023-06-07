@@ -2,8 +2,8 @@
 
 # Data Engineering CODER HOUSE Entregables
 
-Coder House Data Engineering Python :snake: deliverables.
-By [Geomario](https://github.com/geomario).  
+Coder House Data Engineering Python :snake: deliverables
+by [Geomario](https://github.com/geomario).  
 Questions? -> <marm1984@gmail.com>
 
 ## Packaging Installation
