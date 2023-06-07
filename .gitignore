@@ -1,0 +1,10 @@
+# Ignore .env files
+.env 
+.env.*
+!.env.example
+
+# Ignore ipython notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore vscode settings
+.vscode
